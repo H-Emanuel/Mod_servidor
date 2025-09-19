@@ -1,0 +1,23 @@
+{
+"pack.valorant.valorant_gun.name": "Valorant:VCT",
+"pack.valorant.valorant_gun.desc": "源能之战，一触即发",
+
+
+"valorant.gun.vandal.name":"§7Vandal",
+"valorant.gun.phantom.name":"§7Phantom",
+"valorant.gun.sheriff.name":"§7Sheriff",
+"valorant.gun.odin.desc":"§7Odin",
+
+"valorant.gun.vandal.desc":"This accurate powerhouse is ferocious in small bursts.",
+"valorant.gun.phantom.desc":"A balanced weapon built for stable, extended shots.",
+"valorant.gun.sheriff.desc":"A modern six-shooter for the headshot searcher.",
+"valorant.gun.odin.desc":"Wielding this hammer of a machine threatens glory for the holder and ruin for the foe.",
+
+"valorant.block.table.name":"§6Remote trading platform by KINGDOM",
+
+"valorant.block.table.desc":"The latest remote transaction transmission device developed by Kingdom Company",
+
+"valorant.ammo.wg50.name":"KINGDOM_banknotes_50",
+"valorant.ammo.wg100.name":"KINGDOM_banknotes_100",
+"valorant.ammo.crystal.name":"Source Crystal"
+}

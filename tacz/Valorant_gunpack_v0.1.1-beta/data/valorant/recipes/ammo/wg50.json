@@ -1,0 +1,16 @@
+{
+  "materials": [
+    {
+      "item": {
+        "tag": "forge:ingots/iron"
+      },
+      "count": 1
+    }
+  ],
+  "result": {
+    "type": "ammo",
+    "id": "valorant:wg50",
+    "count": 1
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

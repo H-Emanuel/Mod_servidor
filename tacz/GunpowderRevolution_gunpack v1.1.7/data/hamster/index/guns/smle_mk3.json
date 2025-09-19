@@ -1,0 +1,7 @@
+{
+  "name": "hamster.gun.smle_mk3.name",
+  "display": "hamster:smle_mk3_display",
+  "data": "hamster:smle_mk3_data",
+  "tooltip": "hamster.gun.smle_mk3.desc",
+  "type": "sniper"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "hamster.gun.flaregun.name",
+  "display": "hamster:flaregun_display",
+  "data": "hamster:flaregun_data",
+  "tooltip": "hamster.gun.flaregun.desc",
+  "type": "pistol"
+}

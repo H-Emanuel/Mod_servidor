@@ -1,0 +1,7 @@
+{
+  "hidden": false,
+  "name": "hamster.attachment.unertl_scope.name",
+  "display": "hamster:unertl_scope_display",
+  "data": "hamster:unertl_scope_data",
+  "type": "scope"
+}

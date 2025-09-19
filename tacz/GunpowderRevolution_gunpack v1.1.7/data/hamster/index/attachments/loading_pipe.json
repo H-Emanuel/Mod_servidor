@@ -1,0 +1,7 @@
+{
+  "name": "hamster.attachment.loading_pipe.name",
+  "display": "hamster:loading_pipe_display",
+  "data": "hamster:loading_pipe_data",
+  "tooltip": "hamster.attachment.loading_pipe.desc",
+  "type": "extended_mag"
+}

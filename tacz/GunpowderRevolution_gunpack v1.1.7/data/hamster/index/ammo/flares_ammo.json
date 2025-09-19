@@ -1,0 +1,6 @@
+{
+  "name": "hamster.ammo.flares_ammo.name",
+  "display": "hamster:flares_ammo_display",
+  // 堆叠数量
+  "stack_size": 10
+}

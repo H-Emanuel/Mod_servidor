@@ -1,0 +1,7 @@
+{
+  "name": "hamster.gun.mosin9130.name",
+  "display": "hamster:mosin9130_display",
+  "data": "hamster:mosin9130_data",
+  "tooltip": "hamster.gun.mosin9130.desc",
+  "type": "sniper"
+}

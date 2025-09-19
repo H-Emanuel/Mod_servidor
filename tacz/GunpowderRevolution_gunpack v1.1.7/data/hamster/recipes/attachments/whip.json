@@ -1,0 +1,21 @@
+{
+  "materials": [
+    {
+      "item": {
+        "tag": "forge:string"
+      },
+      "count": 30
+    },
+    {
+      "item": {
+        "tag": "forge:slimeballs"
+      },
+      "count": 5
+    }
+  ],
+  "result": {
+    "type": "attachment",
+    "id": "hamster:whip"
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

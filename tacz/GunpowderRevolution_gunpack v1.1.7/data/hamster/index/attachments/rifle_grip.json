@@ -1,0 +1,7 @@
+{
+  "name": "hamster.attachment.rifle_grip.name",
+  "display": "hamster:rifle_grip_display",
+  "data": "hamster:rifle_grip_data",
+  "tooltip": "hamster.attachment.rifle_grip.desc",
+  "type": "stock"
+}

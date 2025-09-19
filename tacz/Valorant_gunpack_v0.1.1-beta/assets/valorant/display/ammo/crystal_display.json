@@ -1,0 +1,25 @@
+{
+  "model": "valorant:ammo/crystal_geo",
+  "texture": "valorant:ammo/uv/crystal",
+  "slot": "valorant:ammo/slot/crystal",
+  "tracer_color": "#FF8888",
+  "transform": {
+    "scale": {
+      "thirdperson": [
+        0.6,
+        0.6,
+        0.6
+      ],
+      "ground": [
+        0.6,
+        0.6,
+        0.6
+      ],
+      "fixed": [
+        1.2,
+        1.2,
+        1.2
+      ]
+    }
+  }
+}

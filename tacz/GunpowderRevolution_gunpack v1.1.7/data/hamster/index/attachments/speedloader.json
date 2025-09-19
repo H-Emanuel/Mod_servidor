@@ -1,0 +1,7 @@
+{
+  "name": "hamster.attachment.speedloader.name",
+  "display": "hamster:speedloader_display",
+  "data": "hamster:speedloader_data",
+  "tooltip": "hamster.attachment.speedloader.desc",
+  "type": "extended_mag"
+}

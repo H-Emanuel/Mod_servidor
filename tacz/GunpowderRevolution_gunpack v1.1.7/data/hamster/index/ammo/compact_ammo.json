@@ -1,0 +1,6 @@
+{
+  "name": "hamster.ammo.compact_ammo.name",
+  "display": "hamster:compact_ammo_display",
+  // 堆叠数量
+  "stack_size": 64
+}

@@ -1,0 +1,7 @@
+{
+  "name": "hamster.gun.type99.name",
+  "display": "hamster:type99_display",
+  "data": "hamster:type99_data",
+  "tooltip": "hamster.gun.type99.desc",
+  "type": "sniper"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "hamster.gun.martinihenry.name",
+  "display": "hamster:martinihenry_display",
+  "data": "hamster:martinihenry_data",
+  "tooltip": "hamster.gun.martinihenry.desc",
+  "type": "sniper"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "hamster.gun.m1903.name",
+  "display": "hamster:m1903_display",
+  "data": "hamster:m1903_data",
+  "tooltip": "hamster.gun.m1903.desc",
+  "type": "sniper"
+}

@@ -1,0 +1,16 @@
+{
+  "materials": [
+    {
+      "item": {
+        "tag": "forge:nether_stars"
+      },
+      "count": 1
+    }
+  ],
+  "result": {
+    "type": "ammo",
+    "id": "valorant:crystal",
+    "count": 1
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

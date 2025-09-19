@@ -1,0 +1,17 @@
+{
+  "weight": 0.4,
+  "inaccuracy": {
+    "multiplier": 0.9
+  },
+  "rpm": {
+    "addend": 50
+  },
+  "recoil": {
+    "pitch": {
+      "multiplier": 1
+    },
+    "yaw": {
+      "multiplier": 0.8
+    }
+  }
+}

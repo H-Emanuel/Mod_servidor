@@ -1,0 +1,7 @@
+{
+  "name": "hamster.attachment.gas_tube.name",
+  "display": "hamster:gas_tube_display",
+  "data": "hamster:gas_tube_data",
+  "tooltip": "hamster.attachment.gas_tube.desc",
+  "type": "muzzle"
+}

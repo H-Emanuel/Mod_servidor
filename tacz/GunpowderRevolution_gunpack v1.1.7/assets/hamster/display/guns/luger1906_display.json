@@ -1,0 +1,45 @@
+{
+  "model": "hamster:gun/luger1906_geo",
+  "texture": "hamster:gun/uv/luger1906",
+  "lod": {
+    "model": "hamster:gun/lod/luger1906",
+    "texture": "hamster:gun/lod/luger1906"
+  },
+  "hud": "hamster:gun/hud/luger1906",
+  "slot": "hamster:gun/slot/luger1906",
+  "animation": "hamster:luger1906",
+  "use_default_animation": "rifle",
+  "third_person_animation": "default",
+  "transform": {
+    "scale": {
+      "thirdperson": [0.6, 0.6, 0.6],
+      "ground": [0.6, 0.6, 0.6],
+      "fixed": [1.2, 1.2, 1.2]
+    }
+  },
+  "state_machine": "hamster:luger1906_state_machine",
+  "muzzle_flash": {
+    "texture": "tacz:flash/common_muzzle_flash",
+    "scale": 1.5
+  },
+  "zoom_model_fov": 55,
+  "iron_zoom": 1.5,
+  "sounds": {
+    "silence": "hamster:luger1906/luger1906_silence",
+    "silence_3p": "hamster:luger1906/luger1906_silence",
+    "shoot": "hamster:luger1906/luger1906_shoot",
+    "shoot_3p": "hamster:luger1906/luger1906_shoot"
+  },
+  "offhand_show": {
+    "pos": [4, 13, -1],
+    "rotate": [-90, -35, 90],
+    "scale": [0.5, 0.5, 0.5]
+  },
+  "hotbar_show": {
+    "0": {
+      "pos": [0, 20, 3],
+      "rotate": [-180, 0, 120],
+      "scale": [0.5, 0.5, 0.5]
+    }
+  }
+}

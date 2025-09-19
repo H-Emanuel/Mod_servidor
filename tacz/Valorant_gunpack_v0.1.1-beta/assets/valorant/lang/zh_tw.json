@@ -1,0 +1,23 @@
+{
+"pack.valorant.valorant_gun.name": "§4特戰英豪_源能争夺",
+"pack.valorant.valorant_gun.desc": "源能之戰，一觸即發",
+
+
+"valorant.gun.vandal.name":"§7暴徒",
+"valorant.gun.phantom.name":"§7幻象",
+"valorant.gun.sheriff.name":"§7神射",
+"valorant.gun.odin.desc":"§7奧丁",
+
+"valorant.gun.vandal.desc":"這把步槍以精悍且精准而聞名，短點射的精准度令敵人聞風喪膽",
+"valorant.gun.phantom.desc":"平衡的完美代言人，中近距離連續接敵的不二之選",
+"valorant.gun.sheriff.desc":"子彈穿透頭顱的那一刻將帶給你前所未有的快感",
+"valorant.gun.odin.desc":"凡人者皆下跪，且聆聽神王怒吼",
+
+"valorant.block.table.name":"§6王國遠程源晶交易平台",
+
+"valorant.block.table.desc":"王國公司最新研发的遠程交易传送裝置",
+
+"valorant.ammo.wg50.name":"50王國币",
+"valorant.ammo.wg100.name":"100王國币",
+"valorant.ammo.crystal.name":"源晶"
+}

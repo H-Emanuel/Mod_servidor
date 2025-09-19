@@ -1,0 +1,8 @@
+{
+  "slot": "hamster:attachment/slot/gas_tube",
+  "adapter": "tube",
+  "sounds": {
+    "install": "tacz:attachments/attachment_general_a",
+    "uninstall": "tacz:attachments/attachment_general_uninstall"
+  }
+}

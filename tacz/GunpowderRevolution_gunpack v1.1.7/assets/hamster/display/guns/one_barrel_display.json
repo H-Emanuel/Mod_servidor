@@ -1,0 +1,42 @@
+{
+  "model": "hamster:gun/one_barrel_geo",
+  "texture": "hamster:gun/uv/one_barrel",
+  "lod": {
+    "model": "hamster:gun/lod/one_barrel",
+    "texture": "hamster:gun/lod/one_barrel"
+  },
+  "hud": "hamster:gun/hud/one_barrel",
+  "slot": "hamster:gun/slot/one_barrel",
+  "animation": "hamster:one_barrel",
+  "use_default_animation": "rifle",
+  "third_person_animation": "default",
+  "transform": {
+    "scale": {
+      "thirdperson": [0.6, 0.6, 0.6],
+      "ground": [0.6, 0.6, 0.6],
+      "fixed": [1.2, 1.2, 1.2]
+    }
+  },
+  "muzzle_flash": {
+    "texture": "tacz:flash/common_muzzle_flash",
+    "scale": 1.7
+  },
+  "zoom_model_fov": 55,
+  "iron_zoom": 1.5,
+  "sounds": {
+    "shoot": "hamster:one_barrel/one_barrel_shoot",
+    "shoot_3p": "hamster:one_barrel/one_barrel_shoot"
+  },
+  "offhand_show": {
+    "pos": [4, 13, -1],
+    "rotate": [-90, -35, 90],
+    "scale": [0.5, 0.5, 0.5]
+  },
+  "hotbar_show": {
+    "0": {
+      "pos": [0, 20, 3],
+      "rotate": [-180, 0, 120],
+      "scale": [0.5, 0.5, 0.5]
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "pack.rainforest.rainforest_default_gun.name": "Cold War",
+  "pack.rainforest.rainforest_default_gun.desc": "带来了冷战时期（1947-1991）最具代表性的武器,每把枪械都承载着特殊的历史记忆。",
+
+
+  "rainforest.gun.l86a2.name": "L86A2 LSW",
+  "rainforest.gun.em2.name":"EM-2",
+
+
+  "rainforest.gun.l86a2.desc": "L86A2，该武器通过与L85步枪共享约80%的零部件实现弹药兼容和后勤简化，通过加长加重枪管设计提升持续射击能力。",
+  "rainforest.gun.em2.desc": "它是世界最早的无托结构自动步枪，全枪仅长889mm，但是其枪管却因使用无托结构，长度达到惊人的623mm!",
+
+
+  "rainforest.attachment.scope_susat.name": "§6Trilux Susat x4"
+ 
+}

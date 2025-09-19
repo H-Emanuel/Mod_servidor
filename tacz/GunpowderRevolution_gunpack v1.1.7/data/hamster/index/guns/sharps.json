@@ -1,0 +1,7 @@
+{
+  "name": "hamster.gun.sharps.name",
+  "display": "hamster:sharps_display",
+  "data": "hamster:sharps_data",
+  "tooltip": "hamster.gun.sharps.desc",
+  "type": "sniper"
+}

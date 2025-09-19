@@ -1,0 +1,43 @@
+{
+  "model": "hamster:gun/berthier_geo",
+  "texture": "hamster:gun/uv/berthier",
+  "lod": {
+    "model": "hamster:gun/lod/berthier",
+    "texture": "hamster:gun/lod/berthier"
+  },
+  "hud": "hamster:gun/hud/berthier",
+  "slot": "hamster:gun/slot/berthier",
+  "animation": "hamster:berthier",
+  "use_default_animation": "rifle",
+  "third_person_animation": "default",
+  "transform": {
+    "scale": {
+      "thirdperson": [0.6, 0.6, 0.6],
+      "ground": [0.6, 0.6, 0.6],
+      "fixed": [1.2, 1.2, 1.2]
+    }
+  },
+  "state_machine": "hamster:berthier_state_machine",
+  "muzzle_flash": {
+    "texture": "tacz:flash/common_muzzle_flash",
+    "scale": 1.5
+  },
+  "zoom_model_fov": 55,
+  "iron_zoom": 1.5,
+  "sounds": {
+    "shoot": "hamster:berthier/berthier_shoot",
+    "shoot_3p": "hamster:berthier/berthier_shoot"
+  },
+  "offhand_show": {
+    "pos": [4, 13, -1],
+    "rotate": [-90, -35, 90],
+    "scale": [0.5, 0.5, 0.5]
+  },
+  "hotbar_show": {
+    "0": {
+      "pos": [0, 20, 3],
+      "rotate": [-180, 0, 120],
+      "scale": [0.5, 0.5, 0.5]
+    }
+  }
+}

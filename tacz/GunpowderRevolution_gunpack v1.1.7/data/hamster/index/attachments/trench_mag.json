@@ -1,0 +1,7 @@
+{
+  "name": "hamster.attachment.trench_mag.name",
+  "display": "hamster:trench_mag_display",
+  "data": "hamster:trench_mag_data",
+  "tooltip": "hamster.attachment.trench_mag.desc",
+  "type": "extended_mag"
+}

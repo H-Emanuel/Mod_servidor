@@ -1,0 +1,43 @@
+{
+  "model": "hamster:gun/type99_geo",
+  "texture": "hamster:gun/uv/type99",
+  "lod": {
+    "model": "hamster:gun/lod/type99",
+    "texture": "hamster:gun/lod/type99"
+  },
+  "hud": "hamster:gun/hud/type99",
+  "slot": "hamster:gun/slot/type99",
+  "animation": "hamster:type99",
+  "use_default_animation": "rifle",
+  "third_person_animation": "default",
+  "state_machine": "hamster:mosin9130_state_machine",
+  "transform": {
+    "scale": {
+      "thirdperson": [0.6, 0.6, 0.6],
+      "ground": [0.6, 0.6, 0.6],
+      "fixed": [1.2, 1.2, 1.2]
+    }
+  },
+  "muzzle_flash": {
+    "texture": "hamster:flash/gr_flash",
+    "scale": 1.5
+  },
+  "zoom_model_fov": 55,
+  "iron_zoom": 1.5,
+  "sounds": {
+    "shoot": "hamster:type99/type99_shoot",
+    "shoot_3p": "hamster:type99/type99_shoot"
+  },
+  "offhand_show": {
+    "pos": [4, 13, -1],
+    "rotate": [-90, -35, 90],
+    "scale": [0.5, 0.5, 0.5]
+  },
+  "hotbar_show": {
+    "0": {
+      "pos": [0, 20, 3],
+      "rotate": [-180, 0, 120],
+      "scale": [0.5, 0.5, 0.5]
+    }
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "slot": "hamster:attachment/slot/load_pipe",
+  "sounds": {
+    "install": "hamster:attachments/extended_mag_install",
+    "uninstall": "hamster:attachments/extended_mag_uninstall"
+  }
+}

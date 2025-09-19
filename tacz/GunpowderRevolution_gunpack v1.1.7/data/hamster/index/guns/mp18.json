@@ -1,0 +1,7 @@
+{
+  "name": "hamster.gun.mp18.name",
+  "display": "hamster:mp18_display",
+  "data": "hamster:mp18_data",
+  "tooltip": "hamster.gun.mp18.desc",
+  "type": "smg"
+}

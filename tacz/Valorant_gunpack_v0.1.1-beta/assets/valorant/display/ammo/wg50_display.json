@@ -1,0 +1,25 @@
+{
+  "model": "valorant:ammo/wg50_geo",
+  "texture": "valorant:ammo/uv/wg50",
+  "slot": "valorant:ammo/slot/wg50",
+  "tracer_color": "#FF8888",
+  "transform": {
+    "scale": {
+      "thirdperson": [
+        0.6,
+        0.6,
+        0.6
+      ],
+      "ground": [
+        0.6,
+        0.6,
+        0.6
+      ],
+      "fixed": [
+        1.2,
+        1.2,
+        1.2
+      ]
+    }
+  }
+}

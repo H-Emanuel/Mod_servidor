@@ -1,0 +1,48 @@
+{
+  "model": "hamster:gun/m1903_geo",
+  "texture": "hamster:gun/uv/m1903",
+  "lod": {
+    "model": "hamster:gun/lod/m1903",
+    "texture": "hamster:gun/lod/m1903"
+  },
+  "hud": "hamster:gun/hud/m1903",
+  "slot": "hamster:gun/slot/m1903",
+  "animation": "hamster:m1903",
+  "use_default_animation": "rifle",
+  "third_person_animation": "default",
+  "state_machine": "hamster:mosin9130_state_machine",
+  "transform": {
+    "scale": {
+      "thirdperson": [0.6, 0.6, 0.6],
+      "ground": [0.6, 0.6, 0.6],
+      "fixed": [1.2, 1.2, 1.2]
+    }
+  },
+  "muzzle_flash": {
+    "texture": "hamster:flash/gr_flash",
+    "scale": 1.5
+  },
+  "zoom_model_fov": 55,
+  "iron_zoom": 1.5,
+  "sounds": {
+    "head_hit": "hamster:headshoot_feedback",
+    "flesh_hit": "hamster:hit_feedback",
+    "kill": "hamster:kill_feedback",
+    "silence": "tacz:m700/m700_silence",
+    "silence_3p": "tacz:m700/m700_silence_3p",
+    "shoot": "hamster:m1903/m1903_shoot",
+    "shoot_3p": "hamster:m1903/m1903_shoot"
+  },
+  "offhand_show": {
+    "pos": [4, 13, -1],
+    "rotate": [-90, -35, 90],
+    "scale": [0.5, 0.5, 0.5]
+  },
+  "hotbar_show": {
+    "0": {
+      "pos": [0, 20, 3],
+      "rotate": [-180, 0, 120],
+      "scale": [0.5, 0.5, 0.5]
+    }
+  }
+}

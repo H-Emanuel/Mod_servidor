@@ -1,0 +1,19 @@
+{
+  "materials": [
+    {
+      "item":{
+      "type": "forge:partial_nbt",
+        "item": "tacz:ammo",
+        "nbt":{
+          "AmmoId":"valorant:wg100"
+        }          
+      },
+      "count": 29 
+    }    
+   ],
+    "result": {
+    "type": "gun",
+    "id": "valorant:phantom"
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

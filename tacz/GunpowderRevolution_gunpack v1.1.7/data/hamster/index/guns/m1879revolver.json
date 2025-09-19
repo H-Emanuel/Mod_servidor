@@ -1,0 +1,7 @@
+{
+  "name": "hamster.gun.m1879revolver.name",
+  "display": "hamster:m1879revolver_display",
+  "data": "hamster:m1879revolver_data",
+  "tooltip": "hamster.gun.m1879revolver.desc",
+  "type": "pistol"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "hamster.gun.sw_mk2.name",
+  "display": "hamster:sw_mk2_display",
+  "data": "hamster:sw_mk2_data",
+  "tooltip": "hamster.gun.sw_mk2.desc",
+  "type": "pistol"
+}

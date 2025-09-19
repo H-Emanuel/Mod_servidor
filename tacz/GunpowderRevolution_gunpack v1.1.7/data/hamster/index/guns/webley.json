@@ -1,0 +1,7 @@
+{
+  "name": "hamster.gun.webley.name",
+  "display": "hamster:webley_display",
+  "data": "hamster:webley_data",
+  "tooltip": "hamster.gun.webley.desc",
+  "type": "pistol"
+}

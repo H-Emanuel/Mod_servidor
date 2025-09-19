@@ -1,0 +1,7 @@
+{
+  "name": "hamster.gun.one_barrel.name",
+  "display": "hamster:one_barrel_display",
+  "data": "hamster:one_barrel_data",
+  "tooltip": "hamster.gun.one_barrel.desc",
+  "type": "shotgun"
+}

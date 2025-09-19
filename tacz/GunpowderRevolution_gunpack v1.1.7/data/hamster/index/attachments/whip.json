@@ -1,0 +1,6 @@
+{
+  "name": "hamster.attachment.whip.name",
+  "display": "hamster:whip_display",
+  "data": "hamster:whip_data",
+  "type": "muzzle"
+}

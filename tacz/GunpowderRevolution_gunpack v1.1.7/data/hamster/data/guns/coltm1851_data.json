@@ -1,0 +1,93 @@
+{
+  "ammo": "hamster:compact_ammo",
+  "ammo_amount": 6,
+  "bolt": "open_bolt",
+  "rpm": 55,
+  "script": "hamster:coltm1851_gun_logic",
+  "script_param": {
+    "intro": 1.56,
+    "intro_empty": 1.08,
+    "loop": 1.51,
+    "ending": 1.35,
+    "loop_feed": 0.8,
+    "fanning_intro": 1.25,
+    "fanning_intro_empty": 3.73,
+    "fanning_loop": 1.51,
+    "fanning_loop_empty": 1.08,
+    "fanning_ending": 1.73,
+    "fanning_loop_feed": 0.8,
+    "fanning_loop_empty_feed": 0.4
+  },
+  "bullet": {
+    "life": 0.9,
+    "bullet_amount": 1,
+    "damage": 12,
+    "tracer_count_interval": 0,
+    "extra_damage": {
+      "armor_ignore": 0.75,
+      "head_shot_multiplier": 2,
+      "damage_adjust": [
+        {"distance": 30, "damage": 12},
+        {"distance": 100, "damage": 4},
+        {"distance": "infinite", "damage": 4}
+      ]
+    },
+    "speed": 250,
+    "gravity": 0.0245,
+    "knockback": 0,
+    "friction": 0.012,
+    "ignite": false,
+    "pierce": 3
+  },
+  "reload": {
+    "type": "magazine",
+    "feed": {
+      "empty": 3.5,
+      "tactical": 3.5
+    },
+    "cooldown": {
+      "empty": 4,
+      "tactical": 4
+    }
+  },
+  "draw_time": 0.7,
+  "put_away_time": 0.7,
+  "aim_time": 0.2,
+  "sprint_time": 0.2,
+  "bolt_action_time": 0.7,
+  "fire_mode": [
+    "semi",
+	"auto"
+  ],
+  "fire_mode_adjust": {
+    "auto": {
+      // 加算，全自动模式的开火数值调整，如无调整可不写
+      "rpm": 300,
+      "knockback": 0,
+      "aim_inaccuracy": 0,
+      "other_inaccuracy": -2
+    }
+  },
+  "recoil": {
+    "pitch": [
+      {"time": 0, "value": [6, 6]},
+      {"time": 0.32, "value": [4, 4]},
+      {"time": 0.57, "value": [-0.6, -0.6]},
+      {"time": 0.82, "value": [0.3, 0.3]},
+      {"time": 1.17, "value": [0, 0]},
+      {"time": 1.47, "value": [0, 0]}
+    ],
+    "yaw": [
+      {"time": 0, "value": [-0.6, -0.5]},
+      {"time": 0.32, "value": [-0.6, -0.5]},
+      {"time": 0.57, "value": [0, 0]}
+    ]
+  },
+  "inaccuracy": {
+    "stand": 6.5,
+    "move": 6,
+    "sneak": 4.5,
+    "lie": 4.5,
+    "aim": 0.05
+  }
+}

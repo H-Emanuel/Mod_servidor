@@ -1,0 +1,41 @@
+{
+  "model": "hamster:gun/flaregun_geo",
+  "texture": "hamster:gun/uv/flaregun",
+  "lod": {
+    "model": "hamster:gun/lod/flaregun",
+    "texture": "hamster:gun/lod/flaregun"
+  },
+  "hud": "hamster:gun/hud/flaregun",
+  "slot": "hamster:gun/slot/flaregun",
+  "animation": "hamster:flaregun",
+  "use_default_animation": "rifle",
+  "third_person_animation": "default",
+  "transform": {
+    "scale": {
+      "thirdperson": [0.6, 0.6, 0.6],
+      "ground": [0.6, 0.6, 0.6],
+      "fixed": [1.2, 1.2, 1.2]
+    }
+  },
+  "muzzle_flash": {
+    "texture": "tacz:flash/common_muzzle_flash",
+    "scale": 1
+  },
+  "iron_zoom": 1.5,
+  "sounds": {
+    "shoot": "hamster:flaregun/flaregun_shoot",
+    "shoot_3p": "hamster:flaregun/flaregun_shoot"
+  },
+  "offhand_show": {
+    "pos": [4, 13, -1],
+    "rotate": [-90, -35, 90],
+    "scale": [0.5, 0.5, 0.5]
+  },
+  "hotbar_show": {
+    "0": {
+      "pos": [0, 20, 3],
+      "rotate": [-180, 0, 120],
+      "scale": [0.5, 0.5, 0.5]
+    }
+  }
+}

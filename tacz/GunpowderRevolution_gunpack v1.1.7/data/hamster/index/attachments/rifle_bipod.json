@@ -1,0 +1,7 @@
+{
+  "name": "hamster.attachment.rifle_bipod.name",
+  "display": "hamster:rifle_bipod_display",
+  "data": "hamster:rifle_bipod_data",
+  "tooltip": "hamster.attachment.rifle_bipod.desc",
+  "type": "grip"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "rainforest.attachment.scope_susat.name",
+  "display": "rainforest:scope_susat_display",
+  "data": "rainforest:scope_susat_data",
+  "type": "scope",
+  "sort": 100
+}

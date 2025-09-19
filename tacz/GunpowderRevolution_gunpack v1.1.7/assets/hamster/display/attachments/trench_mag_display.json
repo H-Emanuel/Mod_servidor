@@ -1,0 +1,7 @@
+{
+  "slot": "hamster:attachment/slot/trench_mag",
+  "sounds": {
+    "install": "hamster:attachments/extended_mag_install",
+    "uninstall": "hamster:attachments/extended_mag_uninstall"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "name": "hamster.gun.berthier.name",
+  "display": "hamster:berthier_display",
+  "data": "hamster:berthier_data",
+  "tooltip": "hamster.gun.berthier.desc",
+  "type": "sniper"
+}

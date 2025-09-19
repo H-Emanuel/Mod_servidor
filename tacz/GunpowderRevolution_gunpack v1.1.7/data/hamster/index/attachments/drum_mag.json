@@ -1,0 +1,7 @@
+{
+  "name": "hamster.attachment.drum_mag.name",
+  "display": "hamster:drum_mag_display",
+  "data": "hamster:drum_mag_data",
+  "tooltip": "hamster.attachment.drum_mag.desc",
+  "type": "extended_mag"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "hamster.attachment.sks_bayonet.name",
+  "display": "hamster:sks_bayonet_display",
+  "data": "hamster:sks_bayonet_data",
+  "type": "muzzle"
+}

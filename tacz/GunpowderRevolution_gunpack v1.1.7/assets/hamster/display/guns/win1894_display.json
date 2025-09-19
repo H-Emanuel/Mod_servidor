@@ -1,0 +1,43 @@
+{
+  "model": "hamster:gun/win1894_geo",
+  "texture": "hamster:gun/uv/win1894",
+  "lod": {
+    "model": "hamster:gun/lod/win1894",
+    "texture": "hamster:gun/lod/win1894"
+  },
+  "hud": "hamster:gun/hud/win1894",
+  "slot": "hamster:gun/slot/win1894",
+  "animation": "hamster:win1894",
+  "use_default_animation": "rifle",
+  "third_person_animation": "default",
+  "state_machine": "hamster:win1894_state_machine",
+  "transform": {
+    "scale": {
+      "thirdperson": [0.6, 0.6, 0.6],
+      "ground": [0.6, 0.6, 0.6],
+      "fixed": [1.2, 1.2, 1.2]
+    }
+  },
+  "muzzle_flash": {
+    "texture": "tacz:flash/common_muzzle_flash",
+    "scale": 1.5
+  },
+  "zoom_model_fov": 55,
+  "iron_zoom": 1.5,
+  "sounds": {
+    "shoot": "hamster:win1894/win1894_shoot",
+    "shoot_3p": "hamster:win1894/win1894_shoot"
+  },
+  "offhand_show": {
+    "pos": [4, 13, -1],
+    "rotate": [-90, -35, 90],
+    "scale": [0.5, 0.5, 0.5]
+  },
+  "hotbar_show": {
+    "0": {
+      "pos": [0, 20, 3],
+      "rotate": [-180, 0, 120],
+      "scale": [0.5, 0.5, 0.5]
+    }
+  }
+}

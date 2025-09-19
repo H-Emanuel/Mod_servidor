@@ -1,0 +1,27 @@
+{
+  "materials": [
+    {
+      "item": {
+        "tag": "forge:ingots/iron"
+      },
+      "count": 55
+    },
+    {
+      "item": {
+        "tag": "forge:gems/emerald"
+      },
+      "count": 5
+    },
+    {
+      "item": {
+        "tag": "minecraft:logs"
+      },
+      "count": 10
+    }
+  ],
+  "result": {
+    "type": "gun",
+    "id": "hamster:m1887"
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

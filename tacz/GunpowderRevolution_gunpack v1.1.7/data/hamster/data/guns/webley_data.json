@@ -1,0 +1,93 @@
+{
+  "ammo": "hamster:medium_ammo",
+  "ammo_amount": 6,
+  "extended_mag_ammo_amount": [
+    6,
+    6,
+    6
+  ],
+  "allow_attachment_types": [
+    "extended_mag"
+  ],
+  "bolt": "open_bolt",
+  "script": "hamster:webley_gun_logic",
+  "script_param": {
+    "shoot_delay": 0.1,
+    "intro": 1.2,
+    "intro_empty": 1.58,
+    "loop": 2.6,
+    "loop_empty": 1.4,
+    "ending": 1.2,
+    "ending_empty": 1.2,
+    "loop_feed": 2.3,
+    "loop_empty_feed": 0.8,
+    "loader": 1.58,
+    "loader_feed": 1
+  },
+  "rpm": 90,
+  "bullet": {
+    "life": 0.9,
+    "bullet_amount": 1,
+    "damage": 17,
+    "tracer_count_interval": 0,
+    "extra_damage": {
+      "armor_ignore": 0.75,
+      "head_shot_multiplier": 2,
+      "damage_adjust": [
+        {"distance": 40, "damage": 17},
+        {"distance": 100, "damage": 7},
+        {"distance": "infinite", "damage": 5}
+      ]
+    },
+    "speed": 250,
+    "gravity": 0.0245,
+    "knockback": 0,
+    "friction": 0.012,
+    "ignite": false,
+    "pierce": 3
+  },
+  "reload": {
+    "type": "magazine",
+    "feed": {
+      "empty": 5,
+      "tactical": 4.5
+    },
+    "cooldown": {
+      "empty": 5.5,
+      "tactical": 5
+    }
+  },
+  "draw_time": 0.7,
+  "put_away_time": 0.7,
+  "aim_time": 0.2,
+  "sprint_time": 0.2,
+  "bolt_action_time": 0.8,
+  "fire_mode": [
+    "semi"
+  ],
+  "recoil": {
+    "pitch": [
+      {"time": 0, "value": [0, 0]},
+      {"time": 0.15, "value": [0, 0]},
+      {"time": 0.2, "value": [9, 9]},
+      {"time": 0.3, "value": [8, 8]},
+      {"time": 0.44, "value": [6, 6]},
+      {"time": 0.63, "value": [-0.6, -0.6]},
+      {"time": 0.8, "value": [0.2, 0.2]},
+      {"time": 1.5, "value": [0, 0]}
+    ],
+    "yaw": [
+      {"time": 0, "value": [-0.05, 0.05]},
+      {"time": 0.1, "value": [-0.8, -0.7]},
+      {"time": 0.32, "value": [-0.6, -0.5]},
+      {"time": 0.57, "value": [0, 0]}
+    ]
+  },
+  "inaccuracy": {
+    "stand": 6.5,
+    "move": 6,
+    "sneak": 4.5,
+    "lie": 4.5,
+    "aim": 0.05
+  }
+}

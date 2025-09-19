@@ -1,0 +1,7 @@
+{
+  "name": "hamster.gun.sks.name",
+  "display": "hamster:sks_display",
+  "data": "hamster:sks_data",
+  "tooltip": "hamster.gun.sks.desc",
+  "type": "rifle"
+}

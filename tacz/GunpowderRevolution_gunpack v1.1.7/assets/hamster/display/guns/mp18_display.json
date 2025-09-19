@@ -1,0 +1,49 @@
+{
+  "model": "hamster:gun/mp18_geo",
+  "texture": "hamster:gun/uv/mp18",
+  "lod": {
+    "model": "hamster:gun/lod/mp18",
+    "texture": "hamster:gun/lod/mp18"
+  },
+  "hud": "hamster:gun/hud/mp18",
+  "slot": "hamster:gun/slot/mp18",
+  "animation": "hamster:mp18",
+  "use_default_animation": "rifle",
+  "third_person_animation": "default",
+  "state_machine": "hamster:mp18_state_machine",
+  "transform": {
+    "scale": {
+      "thirdperson": [0.6, 0.6, 0.6],
+      "ground": [0.6, 0.6, 0.6],
+      "fixed": [1.2, 1.2, 1.2]
+    }
+  },
+  "shell": {
+    "initial_velocity": [5.0, 3.0, 1],
+    "random_velocity": [2.5, 2, 0.25],
+    "acceleration": [0.0, -20, 0.0],
+    "angular_velocity": [360, -960, 90],
+    "living_time": 1.0
+  },
+  "muzzle_flash": {
+    "texture": "tacz:flash/common_muzzle_flash",
+    "scale": 1
+  },
+  "iron_zoom": 1.5,
+  "sounds": {
+    "shoot": "hamster:mp18/mp18_shoot",
+    "shoot_3p": "hamster:mp18/mp18_shoot"
+  },
+  "offhand_show": {
+    "pos": [4, 13, -1],
+    "rotate": [-90, -35, 90],
+    "scale": [0.5, 0.5, 0.5]
+  },
+  "hotbar_show": {
+    "0": {
+      "pos": [0, 20, 3],
+      "rotate": [-180, 0, 120],
+      "scale": [0.5, 0.5, 0.5]
+    }
+  }
+}

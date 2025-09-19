@@ -1,0 +1,26 @@
+{
+  "slot": "rainforest:attachment/slot/scope_susat",
+  "model": "rainforest:attachment/scope_susat_geo",
+  "texture": "rainforest:attachment/uv/scope_susat",
+  "lod": {
+    "model": "rainforest:attachment/lod/scope_susat",
+    "texture": "rainforest:attachment/lod/scope_susat"
+  },
+  "zoom": [
+    4,
+    1
+  ],
+  "views": [
+    2,
+    1
+  ],
+  "views_fov": [
+    40,
+    60
+  ],
+  "scope": true,
+  "sounds": {
+    "install": "tacz:attachments/scope_general_b",
+    "uninstall": "tacz:attachments/scope_general_b"
+  }
+}

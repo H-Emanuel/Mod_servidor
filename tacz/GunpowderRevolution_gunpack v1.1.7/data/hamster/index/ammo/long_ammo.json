@@ -1,0 +1,6 @@
+{
+  "name": "hamster.ammo.long_ammo.name",
+  "display": "hamster:long_ammo_display",
+  // 堆叠数量
+  "stack_size": 32
+}
